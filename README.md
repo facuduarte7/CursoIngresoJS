@@ -1,6 +1,14 @@
 # CursoIngresoJS 
 # facundo duarte 
 
+git clone // una sola
+git status // la que necesites
+git add . // por cada modificacion
+git commit -m  "modificacion del readme"
+git push // facuduarte7
+
+
+
 Curso de ingreso con JavaScript
 
 ejercitación y TP para rendir el examen de ingreso 
